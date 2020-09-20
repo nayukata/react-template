@@ -1,0 +1,11 @@
+{
+    "tslint.autoFixOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "[scss]": {
+        "editor.formatOnSave": false
+    },
+    "css.validate": false,
+    "scss.validate": false
+}
